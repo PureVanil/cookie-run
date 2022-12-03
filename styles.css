@@ -1,0 +1,80 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url("images/websitebg.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Catamaran', sans-serif;
+}
+
+nav {
+    background-color: yellow;
+    height: 75px;
+}
+
+.logo {
+    height: 75px;
+}
+
+.CRK {
+    padding: 45px 50px;
+    margin-left: 50px;
+    font-size: larger;
+}
+
+.CROB {
+    padding: 45px 50px;
+    font-size: larger;
+}
+
+.column {
+    vertical-align: middle;
+}
+
+.navbar {
+    height: 75px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: rgb(122, 73, 26);
+    padding: 25px 25px 0;
+    margin-bottom: 0;
+}
+
+.eek {
+    margin: 0 25px;
+    background-color: #eecb57be;
+    border-collapse: collapse;
+}
+
+.Cookie {
+    width: 50%;
+}
+
+.Cookie img {
+    width: 100%;
+}
+
+.hillichurls {
+    width: 33%;
+}
+
+.hillichurls img {
+    width: 100%;
+}
+
+p{
+    padding: 0 10px;
+}
